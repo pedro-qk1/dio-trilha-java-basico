@@ -6,7 +6,7 @@ public class Operadores {
         a = 5;
         b = 6;
 
-        String resultado = a == b ? "Verdadeiro!" : "Falso!";
+        String resultado = a == b ? "Verdadeiro!" : "Falso!"; // operador ternario
         System.out.println(resultado);
 
         // String resultado = ""
